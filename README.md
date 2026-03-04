@@ -77,3 +77,7 @@ See [orchestration-workflow](orchestration-workflow/orchestration-workflow.md) f
 | [Approval Policies](reports/approval-policies.md) | Policy mechanics, allow-list design patterns, and the sandbox + approval safety matrix |
 | [MCP Patterns](reports/mcp-patterns.md) | Client/server MCP, agent-scoped servers, Codex-as-MCP-server, and sandbox interaction |
 | [Headless CI/CD](reports/headless-ci-cd.md) | `codex exec` integration with GitHub Actions, GitLab CI, and Jenkins |
+
+---
+
+<table width="100%"><tr><td align="left"><a href="https://github.com/shanraisshan/claude-code-best-practice">← Back to Claude Code Best Practice</a></td><td align="right"><img src="!/claude-jumping.svg" alt="Claude jumping" width="60" height="54"></td></tr></table>
