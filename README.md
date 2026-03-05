@@ -43,6 +43,9 @@ See [orchestration-workflow](orchestration-workflow/orchestration-workflow.md) f
 | **weather-agent** | Agent with preloaded weather-fetcher skill | [`.codex/agents/weather-agent.toml`](.codex/agents/weather-agent.toml) |
 | **output.md** | Generated weather report | [`orchestration-workflow/output.md`](orchestration-workflow/output.md) |
 
+## DEVELOPMENT WORKFLOWS
+- [Cross-Model Claude Code + Codex](https://github.com/shanraisshan/claude-code-best-practice/blob/main/development-workflows/cross-model-workflow/cross-model-workflow.md) [![Implemented](!/tags/implemented.svg)](https://github.com/shanraisshan/claude-code-best-practice/blob/main/development-workflows/cross-model-workflow/cross-model-workflow.md)
+
 ## TIPS AND TRICKS
 
 ![Shayan](!/tags/shayan.svg)
@@ -71,7 +74,9 @@ See [orchestration-workflow](orchestration-workflow/orchestration-workflow.md) f
 - Always ask Codex to run the terminal (you want to see logs of) as a background task for better debugging
 - Use MCP ([Chrome DevTools](https://developer.chrome.com/blog/chrome-devtools-mcp), [Playwright](https://github.com/microsoft/playwright-mcp)) to let Codex see browser console logs on its own
 - Provide screenshots of the issue
-- Use a different model for QA — e.g. [Claude Code](https://claude.com/claude-code) for plan and implementation review
+- Use a different model for QA — e.g. [Claude Code](https://github.com/shanraisshan/claude-code-best-practice) for plan and implementation review
+
+<a href="https://github.com/shanraisshan/claude-code-best-practice#billion-dollar-questions"><img src="!/tags/billion-dollar-questions.svg" alt="Billion-Dollar Questions"></a>
 
 ## REPORTS
 
