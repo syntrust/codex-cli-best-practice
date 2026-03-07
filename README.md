@@ -27,6 +27,13 @@ practice makes codex perfect
 | [**Headless / CI**](https://developers.openai.com/codex/noninteractive) | `codex exec "prompt"` | [![Best Practice](!/tags/best-practice.svg)](best-practice/codex-headless.md) Non-interactive execution for pipelines and scripts |
 | [**Sessions**](https://developers.openai.com/codex/cli/features) | `--resume`, `--fork` | [![Best Practice](!/tags/best-practice.svg)](best-practice/codex-sessions.md) Persistent sessions: resume where you left off or fork to explore alternatives |
 | [**Override**](https://developers.openai.com/codex/rules) | [`AGENTS.override.md`](AGENTS.override.md) | Personal instruction overrides — loaded before `AGENTS.md`, not committed to git |
+| [**Workflows**](https://developers.openai.com/codex/workflows/) | IDE, CLI, Cloud | [![Implemented](!/tags/implemented.svg)](orchestration-workflow/orchestration-workflow.md) End-to-end usage patterns — bug fixes, reviews, refactors, prototyping, and documentation updates |
+
+### 🔥 Hot
+
+| Feature | Location | Description |
+|---------|----------|-------------|
+| [**Multi-Agent**](https://developers.openai.com/codex/multi-agent/) | `/experimental` → Multi-agents | Spawn specialized sub-agents in parallel — fan-out work, collect results, and synthesize in one response |
 
 [![Orchestration Workflow](!/tags/orchestration-workflow-hd.svg)](orchestration-workflow/orchestration-workflow.md)
 
@@ -89,5 +96,7 @@ See [orchestration-workflow](orchestration-workflow/orchestration-workflow.md) f
 | [Headless CI/CD](reports/headless-ci-cd.md) | `codex exec` integration with GitHub Actions, GitLab CI, and Jenkins |
 
 ---
+
+<a href="https://openai.com/form/codex-for-oss/"><img src="!/tags/codex-for-oss.svg" alt="Codex for Open Source" width="720"></a>
 
 <table width="100%"><tr><td align="left"><a href="https://github.com/shanraisshan/claude-code-best-practice">← Back to Claude Code Best Practice</a></td><td align="right"><img src="!/claude-jumping.svg" alt="Claude jumping" width="60" height="54"></td></tr></table>
