@@ -101,8 +101,3 @@ From experience with this repository:
 - `best-practice/codex-config.md`: Current config, profiles, and MCP layout
 - `orchestration-workflow/orchestration-workflow.md`: Weather system flow diagram
 
-## Reports
-
-- `reports/config-hierarchy.md`: Configuration merge order and override strategy
-- `reports/approval-policies.md`: Approval policy behavior and tradeoffs
-- `reports/mcp-patterns.md`: MCP configuration and agent scoping patterns
