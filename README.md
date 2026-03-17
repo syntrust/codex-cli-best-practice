@@ -105,8 +105,10 @@ codex
 
 <a href="https://github.com/shanraisshan/claude-code-best-practice#billion-dollar-questions"><img src="!/tags/billion-dollar-questions.svg" alt="Billion-Dollar Questions"></a>
 
+## Other Best Practices
+
+<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-jumping.svg" alt="Claude Code" width="40" height="36"></a> <a href="https://github.com/shanraisshan/claude-code-best-practice"><strong>claude-code-best-practice</strong></a>
+
 ---
 
 <a href="https://openai.com/form/codex-for-oss/"><img src="!/tags/codex-for-oss.svg" alt="Codex for Open Source" width="720"></a>
-
-<table width="100%"><tr><td align="left"><a href="https://github.com/shanraisshan/claude-code-best-practice">← Back to Claude Code Best Practice</a></td><td align="right"><img src="!/claude-jumping.svg" alt="Claude jumping" width="60" height="54"></td></tr></table>
