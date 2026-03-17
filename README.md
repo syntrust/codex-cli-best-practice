@@ -105,9 +105,9 @@ codex
 
 <a href="https://github.com/shanraisshan/claude-code-best-practice#billion-dollar-questions"><img src="!/tags/billion-dollar-questions.svg" alt="Billion-Dollar Questions"></a>
 
-## Other Best Practices
+## Other Repos
 
-<a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-jumping.svg" alt="Claude Code" width="40" height="36"></a> <a href="https://github.com/shanraisshan/claude-code-best-practice"><strong>claude-code-best-practice</strong></a>
+<a href="https://github.com/shanraisshan/codex-cli-voice-hooks"><img src="!/codex-speaking.svg" alt="Codex CLI Voice Hooks" width="40" height="40" align="center"></a> <a href="https://github.com/shanraisshan/codex-cli-voice-hooks"><strong>codex-cli-voice-hooks</strong></a> · <a href="https://github.com/shanraisshan/claude-code-best-practice"><img src="!/claude-jumping.svg" alt="Claude Code" width="40" height="40" align="center"></a> <a href="https://github.com/shanraisshan/claude-code-best-practice"><strong>claude-code-best-practice</strong></a> · <a href="https://github.com/shanraisshan/claude-code-voice-hooks"><img src="!/claude-speaking.svg" alt="Claude Code Voice Hooks" width="40" height="40" align="center"></a> <a href="https://github.com/shanraisshan/claude-code-voice-hooks"><strong>claude-code-voice-hooks</strong></a>
 
 ---
 
