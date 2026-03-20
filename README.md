@@ -1,7 +1,7 @@
 # codex-cli-best-practice
 practice makes codex perfect
 
-![Last Updated](https://img.shields.io/badge/Last_Updated-Mar_17%2C_2026_3%3A08_PM_PKT-white?style=flat&labelColor=555) <a href="https://github.com/shanraisshan/codex-cli-best-practice/stargazers"><img src="https://img.shields.io/github/stars/shanraisshan/codex-cli-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white" alt="GitHub Stars"></a>
+![Last Updated](https://img.shields.io/badge/Last_Updated-Mar_20%2C_2026_7%3A59_AM_PKT-white?style=flat&labelColor=555) <a href="https://github.com/shanraisshan/codex-cli-best-practice/stargazers"><img src="https://img.shields.io/github/stars/shanraisshan/codex-cli-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white" alt="GitHub Stars"></a>
 
 [![Best Practice](!/tags/best-practice.svg)](best-practice/) *Click on this badge to show the latest best practice*<br>
 [![Implemented](!/tags/implemented.svg)](.codex/) *Click on this badge to show implementation in this repo*<br>
@@ -90,7 +90,7 @@ codex
 
 ■ **Daily (2)**
 - update Codex CLI daily and start your day by reading the [changelog](https://github.com/openai/codex/releases)
-- follow [Tibo](https://x.com/thsottiaux), [Embiricos](https://x.com/embirico), [Fouad](https://x.com/fouadmatin), [Bolin](https://x.com/bolinfest), [Romain](https://x.com/romainhuet) on X
+- follow [Tibo](https://x.com/thsottiaux), [Embiricos](https://x.com/embirico), [Jason](https://x.com/jxnlco), [Romain](https://x.com/romainhuet), [Dominik](https://x.com/dkundel), [Fouad](https://x.com/fouadmatin), [Bolin](https://x.com/bolinfest), [OpenAI Devs](https://x.com/OpenAIDevs) on X
 
 ![Codex Team](!/tags/codex-team.svg)
 
